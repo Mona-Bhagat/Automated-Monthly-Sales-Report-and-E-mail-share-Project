@@ -1,4 +1,4 @@
-# Automated-Monthly-Sales-Report-and-E-mail-share-Project
+# Power BI Sales report and E-mail share Automation
 
 
 ![Capture_Report](https://github.com/Mona-Bhagat/Automated-Monthly-Sales-Report-and-E-mail-share-Project/assets/148805047/2c240937-15ab-4e3f-9f07-d986683e7b77)
