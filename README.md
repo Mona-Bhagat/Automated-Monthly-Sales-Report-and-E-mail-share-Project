@@ -1,4 +1,4 @@
-# Power BI Sales report and E-mail share Automation
+# Automatic Retrieval of Sales data, Report creation, and E-mail
 
 
 ![Capture_Report](https://github.com/Mona-Bhagat/Automated-Monthly-Sales-Report-and-E-mail-share-Project/assets/148805047/2c240937-15ab-4e3f-9f07-d986683e7b77)
