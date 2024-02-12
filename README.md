@@ -38,4 +38,4 @@ The primary dataset used for this project is 48 Excel CSV files which are monthl
 This automation would help an organization in the following ways:
 * Saves on time consumed on monitoring the e-mails, downloading, cleansing, appending, report updation, and mailing the updated report
 * Reference - A resource spends 1 hour daily doing the above steps this automation helps save 1 hour * 240 days = 240 hours in a year which when divided by 8 hours per day is 1.25 months in a year
-* The average Median salary of a data analyst in the UK is 38,000 GBP per year (Glassdoor, 2023). 1.25 months salary calculates out to be 3,958 GBP a month 
+* The average Median salary of a data analyst in the UK is 38,000 GBP per year (Glassdoor, 2023). 1.25 months salary calculates out to be 3,958 GBP. 
